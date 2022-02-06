@@ -1,6 +1,6 @@
 # URL shortner
 
-This is an example of how to make a application which shortens the url entered by the client. Made this over an year ago while learning js. Here I am posting it after ages XD!
+This is an example of how to make an application that shortens the URL entered by the client. Made this over a year ago while learning js. Here I am posting it after ages XD!
 
 **MongoDB** is used for storing Users in Database.
 
