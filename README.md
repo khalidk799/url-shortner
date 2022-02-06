@@ -1,4 +1,4 @@
-# URL shortner application using NodeJs & MongoDB
+# URL shortner
 
 This is an example of how to make a application which shortens the url entered by the client. Made this over an year ago while learning js. Here I am posting it after ages XD!
 
